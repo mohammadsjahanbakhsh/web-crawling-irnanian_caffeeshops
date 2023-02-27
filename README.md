@@ -1,7 +1,7 @@
-__________________________________________________Data analysis_______________________________________________________
+__________________________________________________Web crawling_______________________________________________________
 
 
-Scraping clear (python), create mysql interface in (python), store datas in mysql database (python) , then analyze (python) and create a dashboard (power BI)
+Scraping and clear data with python (beautifullSoup and pandas) 
 _______________________________________________________________
 The information is collected from the https://fidilio.com/ site
 
